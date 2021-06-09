@@ -45,9 +45,10 @@ func main() {
 	api.SetupRouter()
 	e.GET("/", welcome)
 
-	port := os.Getenv("PORT")
-	if port == "" {
-		port = "3000" // Default port if not specified
+	port, ok := os.LookupEnv("PORT")
+
+	if ok == false {
+		port = "3000"
 	}
 	e.Logger.Fatal(e.Start(":" +port))
 }
