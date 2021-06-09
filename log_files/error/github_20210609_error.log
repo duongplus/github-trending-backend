@@ -1,0 +1,28 @@
+time="2021-06-09T15:17:37.081206+07:00" level=error msg="must pass a pointer, not a value, to StructScan destination" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/repository/repo_impl/user_repo_impl.go line=35
+time="2021-06-09T15:17:37.081757+07:00" level=error msg="must pass a pointer, not a value, to StructScan destination" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=100
+time="2021-06-09T15:17:51.168307+07:00" level=error msg="must pass a pointer, not a value, to StructScan destination" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/repository/repo_impl/user_repo_impl.go line=35
+time="2021-06-09T15:17:51.168425+07:00" level=error msg="must pass a pointer, not a value, to StructScan destination" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=100
+time="2021-06-09T15:19:24.287985+07:00" level=error msg="Người dùng không tồn tại" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=100
+time="2021-06-09T15:19:51.398698+07:00" level=error msg="code=400, message=Syntax error: offset=34, error=invalid character '\"' after object key:value pair, internal=invalid character '\"' after object key:value pair" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=23
+time="2021-06-09T15:19:56.27062+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/repository/repo_impl/user_repo_impl.go line=50
+time="2021-06-09T15:19:56.270718+07:00" level=error msg="Người dùng đã tồn tại" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=64
+time="2021-06-09T15:20:25.302967+07:00" level=error msg="Người dùng không tồn tại" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=100
+time="2021-06-09T15:21:56.595583+07:00" level=error msg="Người dùng không tồn tại" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=100
+time="2021-06-09T15:22:47.950645+07:00" level=error msg="Người dùng không tồn tại" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=100
+time="2021-06-09T16:26:59.315685+07:00" level=error msg="key is of invalid type" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=131
+time="2021-06-09T17:14:25.72558+07:00" level=error msg="Mật khẩu tối thiểu 8 kí tự" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=97
+time="2021-06-09T17:14:45.78929+07:00" level=error msg="Mật khẩu tối thiểu 8 kí tự" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=97
+time="2021-06-09T17:14:49.279109+07:00" level=error msg="Mật khẩu tối thiểu 8 kí tự" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=97
+time="2021-06-09T17:14:49.9805+07:00" level=error msg="Mật khẩu tối thiểu 8 kí tự" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=97
+time="2021-06-09T17:15:11.936366+07:00" level=error msg="Mật khẩu tối thiểu 8 kí tự" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=97
+time="2021-06-09T17:15:51.527442+07:00" level=error msg="Email không hợp lệ \n Mật khẩu tối thiểu 8 kí tự" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=97
+time="2021-06-09T17:15:55.906916+07:00" level=error msg="Mật khẩu tối thiểu 8 kí tự" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=97
+time="2021-06-09T17:16:17.663113+07:00" level=error msg="Mật khẩu tối thiểu 8 kí tự" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=97
+time="2021-06-09T17:16:28.413012+07:00" level=error msg="Mật khẩu tối thiểu 6 kí tự" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=97
+time="2021-06-09T17:36:19.09411+07:00" level=error msg="code=400, message=Syntax error: offset=47, error=invalid character '}' after object key, internal=invalid character '}' after object key" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=91
+time="2021-06-09T17:44:31.901702+07:00" level=error msg="Mật khẩu tối thiểu 6 kí tự" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=99
+time="2021-06-09T17:44:56.639972+07:00" level=error msg="Mật khẩu tối thiểu 6 kí tự" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=99
+time="2021-06-09T17:44:59.427144+07:00" level=error msg="Password là bắt buộc" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=99
+time="2021-06-10T00:47:18.109419+07:00" level=error msg="code=400, message=Syntax error: offset=7, error=invalid character '/' looking for beginning of object key string, internal=invalid character '/' looking for beginning of object key string" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=174
+time="2021-06-10T00:47:26.692711+07:00" level=error msg="Email là bắt buộc" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=182
+time="2021-06-10T00:48:15.247029+07:00" level=error msg="Email không hợp lệ" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/handler/user-handler.go line=182

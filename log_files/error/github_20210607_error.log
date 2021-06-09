@@ -1,0 +1,2 @@
+time="2021-06-08T01:43:05.638686+07:00" level=error msg="co loi xay ra" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/main.go line=26
+time="2021-06-08T01:53:29.286967+07:00" level=error msg="sql: no rows in result set" file=/Users/duongplus1/Desktop/GoLang/demo-full-project/main.go line=32
